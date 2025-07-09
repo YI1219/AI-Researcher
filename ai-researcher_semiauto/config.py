@@ -1,0 +1,1 @@
+GEMINI_API_KEY = '"AIzaSyCgVOK3mtlF673k6n1nu-bx_kZ8JB5xe08"'  # Replace with your actual API key 
